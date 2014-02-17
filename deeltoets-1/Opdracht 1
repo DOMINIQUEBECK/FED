@@ -92,7 +92,7 @@
       <br />
 
       <label for="Telefoonnummer">Telefoonnummer</label>
-      <input type="number" id="Telefoonnummer" name="Tel" placeholder="0612345678">
+      <input type="text" id="Telefoonnummer" name="Tel" placeholder="0612345678">
       <br />
 
       <label for="email">Email</label>
